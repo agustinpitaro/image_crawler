@@ -1,2 +1,2 @@
-# image_crawler
+# Image Crawler
 Image crawler from google images
